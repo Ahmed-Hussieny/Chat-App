@@ -62,6 +62,7 @@
         color: #000080;
         &::placeholder {
           color: rgb(175, 175, 175);
+          // color: #000080;
         }
       }
 
@@ -173,7 +174,7 @@
           input {
             background-color: transparent;
             border: none;
-            color: white;
+            color: #000080;
             outline: none;
             background-color: white; 
             border-radius: 30px;
